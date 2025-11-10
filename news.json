@@ -1,0 +1,23 @@
+[
+    {
+        "id":"1",
+        "title":"new",
+        "summery":"all about news",
+        "student": {
+            "name": "avinash",
+            "address":"pandeypur",
+            "mobile":"7985439176"
+        }
+
+    },
+    {
+        "id":2,
+        "title":"ram",
+        "summery":"all about hanuman ji",
+        "student":{
+            "name":"rohit",
+            "address":"lahuravir",
+            "mobile":9795005589
+        }
+    }
+]
