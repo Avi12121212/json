@@ -38,7 +38,8 @@
         "summery":"all about kallu ji",
         "student":{
             "name": "kallu ka dost",
-            "address":"home"
+            "address":"home",
+            "pin":"221005"
         }
     }
     
