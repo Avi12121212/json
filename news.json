@@ -31,5 +31,15 @@
                 "local":"pandeypur"
             }
         }
+    },
+    {
+        "id":4,
+        "title":"kallu",
+        "summery":"all about kallu ji",
+        "student":{
+            "name": "kallu ka dost",
+            "address":"home"
+        }
     }
+    
 ]
