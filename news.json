@@ -41,6 +41,26 @@
             "address":"home",
             "pin":"221005"
         }
+    },
+    {
+        "name":"avinash",
+        "Address":"pandeypur",
+        "siblings":{
+            "sisters":{
+                "apnisister":{
+                    "sis1":{
+                        "name":"shikha",
+                        "husband": "Amit singh"
+                    },
+                    "sis2":{
+                        "name":"Manisha",
+                        "husband":"Ajay singh"
+                    }
+
+                    
+                }
+            }
+        }
     }
     
 ]
