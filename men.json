@@ -1,6 +1,6 @@
 [
     {
-        "name":"white shirt",
+        "name":"blue jeans",
         "src":"/img/download.webp",
         "price": 2500,
         "discounted_price": 2000
@@ -12,15 +12,22 @@
         "discounted_price": 2200
     },
     {
-        "name":"white shirt",
+        "name":"black shirt",
         "src":"/img/blackshirt.jpg",
         "price": 2500,
         "discounted_price": 1800
     },
     {
-        "name":"jeans",
-        "src":"/img/jeans.webp",
+        "name":"orenge tshirt",
+        "src":"/img/orengeshirt.jpg",
+        "price": 2500,
+        "discounted_price": 1050
+    },
+    {
+        "name":"white shirt",
+        "src":"/img/shirt.jpg",
         "price": 2500,
         "discounted_price": 1050
     }
+
 ]
