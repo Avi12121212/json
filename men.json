@@ -8,19 +8,19 @@
     {
         "name":"blue shirt",
         "src":"/img/blueshirt.jpg",
-        "price": 2500,
-        "discounted_price": 2000
+        "price": 2600,
+        "discounted_price": 2200
     },
     {
         "name":"white shirt",
         "src":"/img/blackshirt.jpg",
         "price": 2500,
-        "discounted_price": 2000
+        "discounted_price": 1800
     },
     {
         "name":"jeans",
         "src":"/img/jeans.webp",
         "price": 2500,
-        "discounted_price": 2000
+        "discounted_price": 1050
     }
 ]
