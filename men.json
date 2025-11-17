@@ -1,0 +1,26 @@
+[
+    {
+        "name":"white shirt",
+        "src":"public/img/download.webp",
+        "price": 2500,
+        "discounted price": 2000
+    },
+    {
+        "name":"blue shirt",
+        "src":"public/img/blueshirt.jpg",
+        "price": 2500,
+        "discounted price": 2000
+    },
+    {
+        "name":"white shirt",
+        "src":"public/img/blackshirt.jpg",
+        "price": 2500,
+        "discounted price": 2000
+    },
+    {
+        "name":"jeans",
+        "src":"public/img/jeans.webp",
+        "price": 2500,
+        "discounted price": 2000
+    }
+]
