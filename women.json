@@ -1,33 +1,33 @@
 [
   {
     "name": "red dress",
-    "src": "img\reddress.jpg",
+    "src": "/img/reddress.jpg",
     "price": 2500,
     "discounted_price": 2000
   },
   {
     "name": "red marun dress",
-    "src": "img\redmarundress.jpg",
+    "src": "/img/redmarundress.jpg",
     "price": 2500,
     "discounted_price": 2000
   },
   {
     
     "name": "sky blue dress",
-    "src": "img/skybluedress2.jpg",
+    "src": "/img/skybluedress2.jpg",
     "price": 2500,
     "discounted_price": 2000
   },
   
   {
     "name": "yellow dress",
-    "src": "img/yellow.jpg",
+    "src": "/img/yellow.jpg",
     "price": 2500,
     "discounted_price": 2000
   },
   {
     "name": "red chech dress",
-    "src": "img/redcheckdress.jpg",
+    "src": "/img/redcheckdress.jpg",
     "price": 2500,
     "discounted_price": 2000
 
