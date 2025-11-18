@@ -1,0 +1,32 @@
+[
+    {
+        "name":"black white dress ",
+        "src":"/img/blackwhitekid.jpg",
+        "price": 2500,
+        "discounted_price": 2000
+    },
+    {
+        "name":"hats boys pic ",
+        "src":"/img/hatsboykids.jpg",
+        "price": 2500,
+        "discounted_price": 2000
+    },
+    {
+         "name":"red girl kids  ",
+        "src":"/img/redgirlkid.jpg",
+        "price": 2500,
+        "discounted_price": 2000
+    },
+    {
+          "name":"red sky yellow  ",
+        "src":"/img/redskyyellow.jpg",
+        "price": 2500,
+        "discounted_price": 2000
+    },
+    {
+           "name":"small boy kids  ",
+        "src":"/img/smallboykids.jpg",
+        "price": 2500,
+        "discounted_price": 2000
+    }
+]
