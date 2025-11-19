@@ -1,32 +1,44 @@
 [
-    {
-        "name":"black white dress ",
-        "src":"https://avi12121212.github.io/json/img/blackwhitekid.jpg",
-        "price": 2500,
-        "discounted_price": 2000
-    },
-    {
-        "name":"hats boys pic ",
-        "src":"https://avi12121212.github.io/json//img/hatsboykids.jpg",
-        "price": 2500,
-        "discounted_price": 2000
-    },
-    {
-         "name":"red girl kids  ",
-        "src":"https://avi12121212.github.io/json/img/redgirlkid.jpg",
-        "price": 2500,
-        "discounted_price": 2000
-    },
-    {
-          "name":"red sky yellow  ",
-        "src":"https://avi12121212.github.io/json/img/redskyyellow.jpg",
-        "price": 2500,
-        "discounted_price": 2000
-    },
-    {
-           "name":"small boy kids  ",
-        "src":"https://avi12121212.github.io/json/img/smallboykids.jpg",
-        "price": 2500,
-        "discounted_price": 2000
-    }
+  {
+    "name": "black white dress ",
+    "src": "https://avi12121212.github.io/json/img/blackwhitekid.jpg",
+    "price": 2500,
+    "discounted_price": 2000
+  },
+  {
+    "name": "hats boys pic ",
+    "src": "https://avi12121212.github.io/json//img/hatsboykids.jpg",
+    "price": 2500,
+    "discounted_price": 2000
+  },
+  {
+    "name": "red girl kids  ",
+    "src": "https://avi12121212.github.io/json/img/redgirlkid.jpg",
+    "price": 2500,
+    "discounted_price": 2000
+  },
+  {
+    "name": "red sky yellow  ",
+    "src": "https://avi12121212.github.io/json/img/redskyyellow.jpg",
+    "price": 2500,
+    "discounted_price": 2000
+  },
+  {
+    "name": "small boy kids  ",
+    "src": "https://avi12121212.github.io/json/img/smallboykids.jpg",
+    "price": 2500,
+    "discounted_price": 2000
+  },
+  {
+    "name": "red white dott dress ",
+    "src": "https://avi12121212.github.io/json/img/redwhitedott.jpg",
+    "price": 2500,
+    "discounted_price": 1000
+  },
+  {
+    "name": "red white dott dress ",
+    "src": "https://avi12121212.github.io/json/img/shopping.webp",
+    "price": 3000,
+    "discounted_price": 1000
+  }
 ]
